@@ -1,0 +1,180 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "theme": "单韵母 a o e i u ü",
+      "sea": "basic",
+      "intro": "第一座岛住着六个会唱歌的韵母。它们都有四个声调，像四条不一样的小滑梯。",
+      "goals": ["认识 6 个单韵母", "听出四个声调的不同", "跟着读 6 遍"],
+      "items": [
+        { "id": "d01_a_1", "kind": "final", "pinyin": "ā", "base": "a", "tone": 1, "char": "阿", "tip": "嘴巴张大，声音平平的" },
+        { "id": "d01_a_2", "kind": "final", "pinyin": "á", "base": "a", "tone": 2, "char": "啊", "tip": "声音往上爬，像上坡" },
+        { "id": "d01_a_3", "kind": "final", "pinyin": "ǎ", "base": "a", "tone": 3, "char": "啊", "tip": "先往下再往上，像小山丘" },
+        { "id": "d01_a_4", "kind": "final", "pinyin": "à", "base": "a", "tone": 4, "char": "啊", "tip": "声音往下掉，像滑滑梯" },
+
+        { "id": "d01_o_1", "kind": "final", "pinyin": "ō", "base": "o", "tone": 1, "char": "噢", "tip": "嘴唇圆圆，声音平平的" },
+        { "id": "d01_o_2", "kind": "final", "pinyin": "ó", "base": "o", "tone": 2, "char": "哦", "tip": "嘴唇圆圆，声音往上爬" },
+        { "id": "d01_o_3", "kind": "final", "pinyin": "ǒ", "base": "o", "tone": 3, "char": "哦", "tip": "嘴唇圆圆，先下再上" },
+        { "id": "d01_o_4", "kind": "final", "pinyin": "ò", "base": "o", "tone": 4, "char": "哦", "tip": "嘴唇圆圆，声音往下掉" },
+
+        { "id": "d01_e_1", "kind": "final", "pinyin": "ē", "base": "e", "tone": 1, "char": "诶", "tip": "嘴巴扁扁，声音平平的" },
+        { "id": "d01_e_2", "kind": "final", "pinyin": "é", "base": "e", "tone": 2, "char": "鹅", "tip": "嘴巴扁扁，声音往上爬" },
+        { "id": "d01_e_3", "kind": "final", "pinyin": "ě", "base": "e", "tone": 3, "char": "恶", "tip": "嘴巴扁扁，先下再上" },
+        { "id": "d01_e_4", "kind": "final", "pinyin": "è", "base": "e", "tone": 4, "char": "饿", "tip": "嘴巴扁扁，声音往下掉" },
+
+        { "id": "d01_i_1", "kind": "final", "pinyin": "ī", "base": "i", "tone": 1, "char": "衣", "tip": "牙齿对齐，声音平平的" },
+        { "id": "d01_i_2", "kind": "final", "pinyin": "í", "base": "i", "tone": 2, "char": "姨", "tip": "牙齿对齐，声音往上爬" },
+        { "id": "d01_i_3", "kind": "final", "pinyin": "ǐ", "base": "i", "tone": 3, "char": "椅", "tip": "牙齿对齐，先下再上" },
+        { "id": "d01_i_4", "kind": "final", "pinyin": "ì", "base": "i", "tone": 4, "char": "意", "tip": "牙齿对齐，声音往下掉" },
+
+        { "id": "d01_u_1", "kind": "final", "pinyin": "ū", "base": "u", "tone": 1, "char": "姑", "examplePinyin": "gū", "tip": "嘴唇撮圆，声音平平的" },
+        { "id": "d01_u_2", "kind": "final", "pinyin": "ú", "base": "u", "tone": 2, "char": "胡", "examplePinyin": "hú", "tip": "嘴唇撮圆，声音往上爬" },
+        { "id": "d01_u_3", "kind": "final", "pinyin": "ǔ", "base": "u", "tone": 3, "char": "虎", "examplePinyin": "hǔ", "tip": "嘴唇撮圆，先下再上" },
+        { "id": "d01_u_4", "kind": "final", "pinyin": "ù", "base": "u", "tone": 4, "char": "兔", "examplePinyin": "tù", "tip": "嘴唇撮圆，声音往下掉" },
+
+        { "id": "d01_v_1", "kind": "final", "pinyin": "ǖ", "base": "v", "tone": 1, "char": "迂", "examplePinyin": "yū", "tip": "嘴唇撮圆像吹口哨，声音平平的" },
+        { "id": "d01_v_2", "kind": "final", "pinyin": "ǘ", "base": "v", "tone": 2, "char": "鱼", "examplePinyin": "yú", "tip": "嘴唇撮圆，声音往上爬" },
+        { "id": "d01_v_3", "kind": "final", "pinyin": "ǚ", "base": "v", "tone": 3, "char": "雨", "examplePinyin": "yǔ", "tip": "嘴唇撮圆，先下再上" },
+        { "id": "d01_v_4", "kind": "final", "pinyin": "ǜ", "base": "v", "tone": 4, "char": "玉", "examplePinyin": "yù", "tip": "嘴唇撮圆，声音往下掉" }
+      ],
+      "newGroups": [
+        { "label": "a", "hint": "嘴巴张到最大", "ids": ["d01_a_1", "d01_a_2", "d01_a_3", "d01_a_4"] },
+        { "label": "o", "hint": "嘴唇圆圆的", "ids": ["d01_o_1", "d01_o_2", "d01_o_3", "d01_o_4"] },
+        { "label": "e", "hint": "嘴巴扁扁的", "ids": ["d01_e_1", "d01_e_2", "d01_e_3", "d01_e_4"] },
+        { "label": "i", "hint": "牙齿对齐", "ids": ["d01_i_1", "d01_i_2", "d01_i_3", "d01_i_4"] },
+        { "label": "u", "hint": "嘴唇撮圆", "ids": ["d01_u_1", "d01_u_2", "d01_u_3", "d01_u_4"] },
+        { "label": "ü", "hint": "像吹口哨", "ids": ["d01_v_1", "d01_v_2", "d01_v_3", "d01_v_4"] }
+      ],
+      "buildKind": "tone-order",
+      "buildTasks": [],
+      "game": "tone-slide",
+      "readIds": ["d01_a_1", "d01_o_1", "d01_e_1", "d01_i_1", "d01_u_1", "d01_v_1"],
+      "closings": [
+        "第一座岛亮了。你听出了四条不一样的小滑梯。",
+        "今天你把 ā á ǎ à 分开了，我听见了。"
+      ]
+    },
+    {
+      "day": 2,
+      "theme": "声母 b p m f",
+      "sea": "basic",
+      "intro": "第二座岛住着四个「开头音」。它们自己不响，要跟韵母手拉手才出声。",
+      "goals": ["认识 b p m f", "把声母和 a 拼起来", "分清 b 和 p 的气"],
+      "items": [
+        { "id": "init_b", "kind": "initial", "pinyin": "b", "base": "b", "tone": 0, "char": "玻", "tip": "双唇闭一下再放开，不送气" },
+        { "id": "init_p", "kind": "initial", "pinyin": "p", "base": "p", "tone": 0, "char": "坡", "tip": "双唇闭一下，放开时吹出一口气" },
+        { "id": "init_m", "kind": "initial", "pinyin": "m", "base": "m", "tone": 0, "char": "摸", "tip": "双唇闭住，声音从鼻子出来" },
+        { "id": "init_f", "kind": "initial", "pinyin": "f", "base": "f", "tone": 0, "char": "佛", "tip": "上牙轻碰下唇，让气从缝里出来" },
+
+        { "id": "d02_ba_1", "kind": "syllable", "pinyin": "bā", "base": "ba", "tone": 1, "char": "八" },
+        { "id": "d02_ba_2", "kind": "syllable", "pinyin": "bá", "base": "ba", "tone": 2, "char": "拔" },
+        { "id": "d02_ba_3", "kind": "syllable", "pinyin": "bǎ", "base": "ba", "tone": 3, "char": "把" },
+        { "id": "d02_ba_4", "kind": "syllable", "pinyin": "bà", "base": "ba", "tone": 4, "char": "爸" },
+
+        { "id": "d02_pa_1", "kind": "syllable", "pinyin": "pā", "base": "pa", "tone": 1, "char": "趴" },
+        { "id": "d02_pa_2", "kind": "syllable", "pinyin": "pá", "base": "pa", "tone": 2, "char": "爬" },
+        { "id": "d02_pa_4", "kind": "syllable", "pinyin": "pà", "base": "pa", "tone": 4, "char": "怕" },
+
+        { "id": "d02_ma_1", "kind": "syllable", "pinyin": "mā", "base": "ma", "tone": 1, "char": "妈" },
+        { "id": "d02_ma_2", "kind": "syllable", "pinyin": "má", "base": "ma", "tone": 2, "char": "麻" },
+        { "id": "d02_ma_3", "kind": "syllable", "pinyin": "mǎ", "base": "ma", "tone": 3, "char": "马" },
+        { "id": "d02_ma_4", "kind": "syllable", "pinyin": "mà", "base": "ma", "tone": 4, "char": "骂" },
+
+        { "id": "d02_fa_1", "kind": "syllable", "pinyin": "fā", "base": "fa", "tone": 1, "char": "发" },
+        { "id": "d02_fa_2", "kind": "syllable", "pinyin": "fá", "base": "fa", "tone": 2, "char": "罚" },
+
+        { "id": "d02_bo_1", "kind": "syllable", "pinyin": "bō", "base": "bo", "tone": 1, "char": "波" },
+        { "id": "d02_po_1", "kind": "syllable", "pinyin": "pō", "base": "po", "tone": 1, "char": "坡" },
+        { "id": "d02_mo_1", "kind": "syllable", "pinyin": "mō", "base": "mo", "tone": 1, "char": "摸" },
+        { "id": "d02_fu_1", "kind": "syllable", "pinyin": "fū", "base": "fu", "tone": 1, "char": "夫" },
+
+        { "id": "d02_w_baba", "kind": "word", "pinyin": "bà ba", "base": "baba", "tone": 0, "char": "爸爸" },
+        { "id": "d02_w_mama", "kind": "word", "pinyin": "mā ma", "base": "mama", "tone": 0, "char": "妈妈" },
+        { "id": "d02_w_muma", "kind": "word", "pinyin": "mù mǎ", "base": "muma", "tone": 0, "char": "木马" },
+        { "id": "d02_w_pashan", "kind": "word", "pinyin": "pá shān", "base": "pashan", "tone": 0, "char": "爬山" },
+        { "id": "d02_w_bi", "kind": "word", "pinyin": "bǐ", "base": "bi", "tone": 0, "char": "笔" }
+      ],
+      "newGroups": [
+        { "label": "声母", "hint": "读得轻一点、短一点", "ids": ["init_b", "init_p", "init_m", "init_f"] },
+        { "label": "拼一读", "hint": "声母轻，韵母响，两音相连猛一碰", "ids": ["d02_ba_1", "d02_ba_2", "d02_ba_3", "d02_ba_4", "d02_pa_1", "d02_pa_2", "d02_pa_4", "d02_ma_1", "d02_ma_2", "d02_ma_3", "d02_ma_4", "d02_fa_1", "d02_fa_2"] }
+      ],
+      "buildKind": "combine",
+      "buildTasks": [
+        { "initial": "b", "final": "a", "result": "bā", "itemId": "d02_ba_1", "char": "八" },
+        { "initial": "p", "final": "a", "result": "pā", "itemId": "d02_pa_1", "char": "趴" },
+        { "initial": "m", "final": "a", "result": "mā", "itemId": "d02_ma_1", "char": "妈" },
+        { "initial": "f", "final": "a", "result": "fā", "itemId": "d02_fa_1", "char": "发" },
+        { "initial": "b", "final": "o", "result": "bō", "itemId": "d02_bo_1", "char": "波" },
+        { "initial": "p", "final": "o", "result": "pō", "itemId": "d02_po_1", "char": "坡" },
+        { "initial": "m", "final": "o", "result": "mō", "itemId": "d02_mo_1", "char": "摸" },
+        { "initial": "f", "final": "u", "result": "fū", "itemId": "d02_fu_1", "char": "夫" }
+      ],
+      "game": "fog",
+      "readIds": ["d02_w_baba", "d02_w_mama", "d02_w_muma", "d02_w_pashan", "d02_w_bi"],
+      "closings": [
+        "第二座岛亮了。你把 b 和 p 的气分开了。",
+        "今天你拼出了 bā bá bǎ bà，还读会了「爸爸」。"
+      ]
+    },
+    {
+      "day": 3,
+      "theme": "声母 d t n l",
+      "sea": "basic",
+      "intro": "第三座岛有四个新朋友。d 和 t 是兄弟，n 和 l 最容易打架，今天把它们分开。",
+      "goals": ["认识 d t n l", "分清 n 和 l", "读出 dà mǐ 和 tù zi"],
+      "items": [
+        { "id": "init_d", "kind": "initial", "pinyin": "d", "base": "d", "tone": 0, "char": "得", "tip": "舌尖顶住上牙床，突然放开" },
+        { "id": "init_t", "kind": "initial", "pinyin": "t", "base": "t", "tone": 0, "char": "特", "tip": "同 d，但放开时要送气" },
+        { "id": "init_n", "kind": "initial", "pinyin": "n", "base": "n", "tone": 0, "char": "讷", "tip": "舌尖顶住上牙床，声音从鼻子出来" },
+        { "id": "init_l", "kind": "initial", "pinyin": "l", "base": "l", "tone": 0, "char": "勒", "tip": "舌尖顶住上牙床，气从舌头两边出来" },
+
+        { "id": "d03_da_1", "kind": "syllable", "pinyin": "dā", "base": "da", "tone": 1, "char": "搭" },
+        { "id": "d03_da_2", "kind": "syllable", "pinyin": "dá", "base": "da", "tone": 2, "char": "答" },
+        { "id": "d03_da_3", "kind": "syllable", "pinyin": "dǎ", "base": "da", "tone": 3, "char": "打" },
+        { "id": "d03_da_4", "kind": "syllable", "pinyin": "dà", "base": "da", "tone": 4, "char": "大" },
+
+        { "id": "d03_ta_1", "kind": "syllable", "pinyin": "tā", "base": "ta", "tone": 1, "char": "他" },
+        { "id": "d03_ta_3", "kind": "syllable", "pinyin": "tǎ", "base": "ta", "tone": 3, "char": "塔" },
+        { "id": "d03_ta_4", "kind": "syllable", "pinyin": "tà", "base": "ta", "tone": 4, "char": "踏" },
+
+        { "id": "d03_na_3", "kind": "syllable", "pinyin": "nǎ", "base": "na", "tone": 3, "char": "哪" },
+        { "id": "d03_na_4", "kind": "syllable", "pinyin": "nà", "base": "na", "tone": 4, "char": "那" },
+
+        { "id": "d03_la_1", "kind": "syllable", "pinyin": "lā", "base": "la", "tone": 1, "char": "拉" },
+        { "id": "d03_la_4", "kind": "syllable", "pinyin": "là", "base": "la", "tone": 4, "char": "辣" },
+
+        { "id": "d03_di_1", "kind": "syllable", "pinyin": "dī", "base": "di", "tone": 1, "char": "低" },
+        { "id": "d03_ti_1", "kind": "syllable", "pinyin": "tī", "base": "ti", "tone": 1, "char": "踢" },
+        { "id": "d03_ni_2", "kind": "syllable", "pinyin": "ní", "base": "ni", "tone": 2, "char": "泥" },
+        { "id": "d03_li_2", "kind": "syllable", "pinyin": "lí", "base": "li", "tone": 2, "char": "梨" },
+
+        { "id": "d03_w_dami", "kind": "word", "pinyin": "dà mǐ", "base": "dami", "tone": 0, "char": "大米" },
+        { "id": "d03_w_tuzi", "kind": "word", "pinyin": "tù zi", "base": "tuzi", "tone": 0, "char": "兔子" },
+        { "id": "d03_w_nainai", "kind": "word", "pinyin": "nǎi nai", "base": "nainai", "tone": 0, "char": "奶奶" },
+        { "id": "d03_w_laoshi", "kind": "word", "pinyin": "lǎo shī", "base": "laoshi", "tone": 0, "char": "老师" },
+        { "id": "d03_w_lizi", "kind": "word", "pinyin": "lí zi", "base": "lizi", "tone": 0, "char": "梨子" }
+      ],
+      "newGroups": [
+        { "label": "声母", "hint": "舌尖顶住上牙床", "ids": ["init_d", "init_t", "init_n", "init_l"] },
+        { "label": "拼一读", "hint": "n 从鼻子出气，l 从舌头两边出气", "ids": ["d03_da_1", "d03_da_2", "d03_da_3", "d03_da_4", "d03_ta_1", "d03_ta_3", "d03_ta_4", "d03_na_3", "d03_na_4", "d03_la_1", "d03_la_4"] }
+      ],
+      "buildKind": "combine",
+      "buildTasks": [
+        { "initial": "d", "final": "a", "result": "dā", "itemId": "d03_da_1", "char": "搭" },
+        { "initial": "t", "final": "a", "result": "tā", "itemId": "d03_ta_1", "char": "他" },
+        { "initial": "n", "final": "a", "result": "nà", "itemId": "d03_na_4", "char": "那" },
+        { "initial": "l", "final": "a", "result": "lā", "itemId": "d03_la_1", "char": "拉" },
+        { "initial": "d", "final": "i", "result": "dī", "itemId": "d03_di_1", "char": "低" },
+        { "initial": "t", "final": "i", "result": "tī", "itemId": "d03_ti_1", "char": "踢" },
+        { "initial": "n", "final": "i", "result": "ní", "itemId": "d03_ni_2", "char": "泥" },
+        { "initial": "l", "final": "i", "result": "lí", "itemId": "d03_li_2", "char": "梨" }
+      ],
+      "game": "fish",
+      "readIds": ["d03_w_dami", "d03_w_tuzi", "d03_w_nainai", "d03_w_laoshi", "d03_w_lizi"],
+      "closings": [
+        "第三座岛亮了。n 和 l 你分开了。",
+        "今天你读会了「大米」和「兔子」，声音很稳。"
+      ]
+    }
+  ]
+}

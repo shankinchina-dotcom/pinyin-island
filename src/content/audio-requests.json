@@ -1,0 +1,968 @@
+[
+  {
+    "key": "init_b",
+    "kind": "initial",
+    "ph": "b",
+    "text": "玻",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_p",
+    "kind": "initial",
+    "ph": "p",
+    "text": "坡",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_m",
+    "kind": "initial",
+    "ph": "m",
+    "text": "摸",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_f",
+    "kind": "initial",
+    "ph": "f",
+    "text": "佛",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_d",
+    "kind": "initial",
+    "ph": "d",
+    "text": "得",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_t",
+    "kind": "initial",
+    "ph": "t",
+    "text": "特",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_n",
+    "kind": "initial",
+    "ph": "n",
+    "text": "讷",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_l",
+    "kind": "initial",
+    "ph": "l",
+    "text": "勒",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_g",
+    "kind": "initial",
+    "ph": "g",
+    "text": "哥",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_k",
+    "kind": "initial",
+    "ph": "k",
+    "text": "科",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_h",
+    "kind": "initial",
+    "ph": "h",
+    "text": "喝",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_j",
+    "kind": "initial",
+    "ph": "j",
+    "text": "基",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_q",
+    "kind": "initial",
+    "ph": "q",
+    "text": "欺",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_x",
+    "kind": "initial",
+    "ph": "x",
+    "text": "希",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_zh",
+    "kind": "initial",
+    "ph": "zh",
+    "text": "知",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_ch",
+    "kind": "initial",
+    "ph": "ch",
+    "text": "吃",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_sh",
+    "kind": "initial",
+    "ph": "sh",
+    "text": "诗",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_r",
+    "kind": "initial",
+    "ph": "r",
+    "text": "日",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_z",
+    "kind": "initial",
+    "ph": "z",
+    "text": "资",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_c",
+    "kind": "initial",
+    "ph": "c",
+    "text": "雌",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_s",
+    "kind": "initial",
+    "ph": "s",
+    "text": "思",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_y",
+    "kind": "initial",
+    "ph": "y",
+    "text": "衣",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "init_w",
+    "kind": "initial",
+    "ph": "w",
+    "text": "乌",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_a",
+    "kind": "final",
+    "ph": "a",
+    "text": "啊",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_o",
+    "kind": "final",
+    "ph": "o",
+    "text": "哦",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_e",
+    "kind": "final",
+    "ph": "e",
+    "text": "鹅",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_i",
+    "kind": "final",
+    "ph": "i",
+    "text": "衣",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_u",
+    "kind": "final",
+    "ph": "u",
+    "text": "乌",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_v",
+    "kind": "final",
+    "ph": "ü",
+    "text": "迂",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_ai",
+    "kind": "final",
+    "ph": "ai",
+    "text": "哀",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_ei",
+    "kind": "final",
+    "ph": "ei",
+    "text": "诶",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_ui",
+    "kind": "final",
+    "ph": "ui",
+    "text": "威",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_ao",
+    "kind": "final",
+    "ph": "ao",
+    "text": "熬",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_ou",
+    "kind": "final",
+    "ph": "ou",
+    "text": "欧",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_iu",
+    "kind": "final",
+    "ph": "iu",
+    "text": "优",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_ie",
+    "kind": "final",
+    "ph": "ie",
+    "text": "耶",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_ve",
+    "kind": "final",
+    "ph": "üe",
+    "text": "约",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_er",
+    "kind": "final",
+    "ph": "er",
+    "text": "儿",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_an",
+    "kind": "final",
+    "ph": "an",
+    "text": "安",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_en",
+    "kind": "final",
+    "ph": "en",
+    "text": "恩",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_in",
+    "kind": "final",
+    "ph": "in",
+    "text": "因",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_un",
+    "kind": "final",
+    "ph": "un",
+    "text": "温",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_vn",
+    "kind": "final",
+    "ph": "ün",
+    "text": "晕",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_ang",
+    "kind": "final",
+    "ph": "ang",
+    "text": "昂",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_eng",
+    "kind": "final",
+    "ph": "eng",
+    "text": "鞥",
+    "tone": null,
+    "approx": true
+  },
+  {
+    "key": "fin_ing",
+    "kind": "final",
+    "ph": "ing",
+    "text": "英",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "fin_ong",
+    "kind": "final",
+    "ph": "ong",
+    "text": "嗡",
+    "tone": null,
+    "approx": true
+  },
+  {
+    "key": "whole_zhi",
+    "kind": "whole",
+    "ph": "zhi",
+    "text": "知",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_chi",
+    "kind": "whole",
+    "ph": "chi",
+    "text": "吃",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_shi",
+    "kind": "whole",
+    "ph": "shi",
+    "text": "诗",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_ri",
+    "kind": "whole",
+    "ph": "ri",
+    "text": "日",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_zi",
+    "kind": "whole",
+    "ph": "zi",
+    "text": "资",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_ci",
+    "kind": "whole",
+    "ph": "ci",
+    "text": "雌",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_si",
+    "kind": "whole",
+    "ph": "si",
+    "text": "思",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_yi",
+    "kind": "whole",
+    "ph": "yi",
+    "text": "衣",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_wu",
+    "kind": "whole",
+    "ph": "wu",
+    "text": "乌",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_yu",
+    "kind": "whole",
+    "ph": "yu",
+    "text": "迂",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_ye",
+    "kind": "whole",
+    "ph": "ye",
+    "text": "耶",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_yue",
+    "kind": "whole",
+    "ph": "yue",
+    "text": "约",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_yuan",
+    "kind": "whole",
+    "ph": "yuan",
+    "text": "冤",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_yin",
+    "kind": "whole",
+    "ph": "yin",
+    "text": "因",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_yun",
+    "kind": "whole",
+    "ph": "yun",
+    "text": "晕",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "whole_ying",
+    "kind": "whole",
+    "ph": "ying",
+    "text": "英",
+    "tone": null,
+    "approx": false
+  },
+  {
+    "key": "d01_a_1",
+    "kind": "vowel-tone",
+    "ph": "a 1",
+    "text": "阿",
+    "tone": 1
+  },
+  {
+    "key": "d01_a_2",
+    "kind": "vowel-tone",
+    "ph": "a 2",
+    "text": "啊",
+    "tone": 2
+  },
+  {
+    "key": "d01_a_3",
+    "kind": "vowel-tone",
+    "ph": "a 3",
+    "text": "啊",
+    "tone": 3
+  },
+  {
+    "key": "d01_a_4",
+    "kind": "vowel-tone",
+    "ph": "a 4",
+    "text": "啊",
+    "tone": 4
+  },
+  {
+    "key": "d01_o_1",
+    "kind": "vowel-tone",
+    "ph": "o 1",
+    "text": "噢",
+    "tone": 1
+  },
+  {
+    "key": "d01_o_2",
+    "kind": "vowel-tone",
+    "ph": "o 2",
+    "text": "哦",
+    "tone": 2
+  },
+  {
+    "key": "d01_o_3",
+    "kind": "vowel-tone",
+    "ph": "o 3",
+    "text": "哦",
+    "tone": 3
+  },
+  {
+    "key": "d01_o_4",
+    "kind": "vowel-tone",
+    "ph": "o 4",
+    "text": "哦",
+    "tone": 4
+  },
+  {
+    "key": "d01_e_1",
+    "kind": "vowel-tone",
+    "ph": "e 1",
+    "text": "诶",
+    "tone": 1
+  },
+  {
+    "key": "d01_e_2",
+    "kind": "vowel-tone",
+    "ph": "e 2",
+    "text": "鹅",
+    "tone": 2
+  },
+  {
+    "key": "d01_e_3",
+    "kind": "vowel-tone",
+    "ph": "e 3",
+    "text": "恶",
+    "tone": 3
+  },
+  {
+    "key": "d01_e_4",
+    "kind": "vowel-tone",
+    "ph": "e 4",
+    "text": "饿",
+    "tone": 4
+  },
+  {
+    "key": "d01_i_1",
+    "kind": "vowel-tone",
+    "ph": "i 1",
+    "text": "衣",
+    "tone": 1
+  },
+  {
+    "key": "d01_i_2",
+    "kind": "vowel-tone",
+    "ph": "i 2",
+    "text": "姨",
+    "tone": 2
+  },
+  {
+    "key": "d01_i_3",
+    "kind": "vowel-tone",
+    "ph": "i 3",
+    "text": "椅",
+    "tone": 3
+  },
+  {
+    "key": "d01_i_4",
+    "kind": "vowel-tone",
+    "ph": "i 4",
+    "text": "意",
+    "tone": 4
+  },
+  {
+    "key": "d01_u_1",
+    "kind": "vowel-tone",
+    "ph": "u 1",
+    "text": "姑",
+    "tone": 1
+  },
+  {
+    "key": "d01_u_2",
+    "kind": "vowel-tone",
+    "ph": "u 2",
+    "text": "胡",
+    "tone": 2
+  },
+  {
+    "key": "d01_u_3",
+    "kind": "vowel-tone",
+    "ph": "u 3",
+    "text": "虎",
+    "tone": 3
+  },
+  {
+    "key": "d01_u_4",
+    "kind": "vowel-tone",
+    "ph": "u 4",
+    "text": "兔",
+    "tone": 4
+  },
+  {
+    "key": "d01_v_1",
+    "kind": "vowel-tone",
+    "ph": "v 1",
+    "text": "迂",
+    "tone": 1
+  },
+  {
+    "key": "d01_v_2",
+    "kind": "vowel-tone",
+    "ph": "v 2",
+    "text": "鱼",
+    "tone": 2
+  },
+  {
+    "key": "d01_v_3",
+    "kind": "vowel-tone",
+    "ph": "v 3",
+    "text": "雨",
+    "tone": 3
+  },
+  {
+    "key": "d01_v_4",
+    "kind": "vowel-tone",
+    "ph": "v 4",
+    "text": "玉",
+    "tone": 4
+  },
+  {
+    "key": "d02_ba_1",
+    "kind": "syllable",
+    "ph": "ba 1",
+    "text": "八",
+    "tone": 1
+  },
+  {
+    "key": "d02_ba_2",
+    "kind": "syllable",
+    "ph": "ba 2",
+    "text": "拔",
+    "tone": 2
+  },
+  {
+    "key": "d02_ba_3",
+    "kind": "syllable",
+    "ph": "ba 3",
+    "text": "把",
+    "tone": 3
+  },
+  {
+    "key": "d02_ba_4",
+    "kind": "syllable",
+    "ph": "ba 4",
+    "text": "爸",
+    "tone": 4
+  },
+  {
+    "key": "d02_pa_1",
+    "kind": "syllable",
+    "ph": "pa 1",
+    "text": "趴",
+    "tone": 1
+  },
+  {
+    "key": "d02_pa_2",
+    "kind": "syllable",
+    "ph": "pa 2",
+    "text": "爬",
+    "tone": 2
+  },
+  {
+    "key": "d02_pa_4",
+    "kind": "syllable",
+    "ph": "pa 4",
+    "text": "怕",
+    "tone": 4
+  },
+  {
+    "key": "d02_ma_1",
+    "kind": "syllable",
+    "ph": "ma 1",
+    "text": "妈",
+    "tone": 1
+  },
+  {
+    "key": "d02_ma_2",
+    "kind": "syllable",
+    "ph": "ma 2",
+    "text": "麻",
+    "tone": 2
+  },
+  {
+    "key": "d02_ma_3",
+    "kind": "syllable",
+    "ph": "ma 3",
+    "text": "马",
+    "tone": 3
+  },
+  {
+    "key": "d02_ma_4",
+    "kind": "syllable",
+    "ph": "ma 4",
+    "text": "骂",
+    "tone": 4
+  },
+  {
+    "key": "d02_fa_1",
+    "kind": "syllable",
+    "ph": "fa 1",
+    "text": "发",
+    "tone": 1
+  },
+  {
+    "key": "d02_fa_2",
+    "kind": "syllable",
+    "ph": "fa 2",
+    "text": "罚",
+    "tone": 2
+  },
+  {
+    "key": "d02_bo_1",
+    "kind": "syllable",
+    "ph": "bo 1",
+    "text": "波",
+    "tone": 1
+  },
+  {
+    "key": "d02_po_1",
+    "kind": "syllable",
+    "ph": "po 1",
+    "text": "坡",
+    "tone": 1
+  },
+  {
+    "key": "d02_mo_1",
+    "kind": "syllable",
+    "ph": "mo 1",
+    "text": "摸",
+    "tone": 1
+  },
+  {
+    "key": "d02_fu_1",
+    "kind": "syllable",
+    "ph": "fu 1",
+    "text": "夫",
+    "tone": 1
+  },
+  {
+    "key": "d02_w_baba",
+    "kind": "word",
+    "ph": "bà ba",
+    "text": "爸爸",
+    "tone": null
+  },
+  {
+    "key": "d02_w_mama",
+    "kind": "word",
+    "ph": "mā ma",
+    "text": "妈妈",
+    "tone": null
+  },
+  {
+    "key": "d02_w_muma",
+    "kind": "word",
+    "ph": "mù mǎ",
+    "text": "木马",
+    "tone": null
+  },
+  {
+    "key": "d02_w_pashan",
+    "kind": "word",
+    "ph": "pá shān",
+    "text": "爬山",
+    "tone": null
+  },
+  {
+    "key": "d02_w_bi",
+    "kind": "word",
+    "ph": "bǐ",
+    "text": "笔",
+    "tone": null
+  },
+  {
+    "key": "d03_da_1",
+    "kind": "syllable",
+    "ph": "da 1",
+    "text": "搭",
+    "tone": 1
+  },
+  {
+    "key": "d03_da_2",
+    "kind": "syllable",
+    "ph": "da 2",
+    "text": "答",
+    "tone": 2
+  },
+  {
+    "key": "d03_da_3",
+    "kind": "syllable",
+    "ph": "da 3",
+    "text": "打",
+    "tone": 3
+  },
+  {
+    "key": "d03_da_4",
+    "kind": "syllable",
+    "ph": "da 4",
+    "text": "大",
+    "tone": 4
+  },
+  {
+    "key": "d03_ta_1",
+    "kind": "syllable",
+    "ph": "ta 1",
+    "text": "他",
+    "tone": 1
+  },
+  {
+    "key": "d03_ta_3",
+    "kind": "syllable",
+    "ph": "ta 3",
+    "text": "塔",
+    "tone": 3
+  },
+  {
+    "key": "d03_ta_4",
+    "kind": "syllable",
+    "ph": "ta 4",
+    "text": "踏",
+    "tone": 4
+  },
+  {
+    "key": "d03_na_3",
+    "kind": "syllable",
+    "ph": "na 3",
+    "text": "哪",
+    "tone": 3
+  },
+  {
+    "key": "d03_na_4",
+    "kind": "syllable",
+    "ph": "na 4",
+    "text": "那",
+    "tone": 4
+  },
+  {
+    "key": "d03_la_1",
+    "kind": "syllable",
+    "ph": "la 1",
+    "text": "拉",
+    "tone": 1
+  },
+  {
+    "key": "d03_la_4",
+    "kind": "syllable",
+    "ph": "la 4",
+    "text": "辣",
+    "tone": 4
+  },
+  {
+    "key": "d03_di_1",
+    "kind": "syllable",
+    "ph": "di 1",
+    "text": "低",
+    "tone": 1
+  },
+  {
+    "key": "d03_ti_1",
+    "kind": "syllable",
+    "ph": "ti 1",
+    "text": "踢",
+    "tone": 1
+  },
+  {
+    "key": "d03_ni_2",
+    "kind": "syllable",
+    "ph": "ni 2",
+    "text": "泥",
+    "tone": 2
+  },
+  {
+    "key": "d03_li_2",
+    "kind": "syllable",
+    "ph": "li 2",
+    "text": "梨",
+    "tone": 2
+  },
+  {
+    "key": "d03_w_dami",
+    "kind": "word",
+    "ph": "dà mǐ",
+    "text": "大米",
+    "tone": null
+  },
+  {
+    "key": "d03_w_tuzi",
+    "kind": "word",
+    "ph": "tù zi",
+    "text": "兔子",
+    "tone": null
+  },
+  {
+    "key": "d03_w_nainai",
+    "kind": "word",
+    "ph": "nǎi nai",
+    "text": "奶奶",
+    "tone": null
+  },
+  {
+    "key": "d03_w_laoshi",
+    "kind": "word",
+    "ph": "lǎo shī",
+    "text": "老师",
+    "tone": null
+  },
+  {
+    "key": "d03_w_lizi",
+    "kind": "word",
+    "ph": "lí zi",
+    "text": "梨子",
+    "tone": null
+  }
+]

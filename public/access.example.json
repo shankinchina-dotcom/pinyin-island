@@ -1,0 +1,7 @@
+{
+  "_说明": "复制为 public/access.json 后改成自己的钥匙。该文件不进仓库；部署时单独上传到服务器根目录。",
+  "codes": [
+    { "code": "123456", "id": "kid_he", "name": "小禾", "avatar": "nuo" },
+    { "code": "234567", "id": "kid_man", "name": "小满", "avatar": "buding" }
+  ]
+}

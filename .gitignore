@@ -1,0 +1,26 @@
+node_modules
+dist
+.DS_Store
+*.local
+.venv
+__pycache__
+*.pyc
+
+# 钥匙清单：只在本地与服务器，不进仓库
+public/access.json
+
+# 构建/截图临时产物
+.build-tmp
+.shots
+
+# 音频中间产物（成品在 public/audio/v1，需要提交）
+tools/_scratch
+tools/_backup_tts
+tools/_human_raw
+tools/_human_raw2
+tools/audio-report.csv
+
+# 密钥（本机部署私钥不在项目内，这里兜底）
+*.pem
+id_ed25519*
+*.key
